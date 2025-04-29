@@ -367,7 +367,7 @@ def element_prevalence(formulae,
         if save_dir is not None:
             fig_name = f'{save_dir}/{name}_ptable.png'
             os.makedirs(save_dir, exist_ok=True)
-            plt.savefig(fig_name, bbox_inches='tight', dpi=300)
+            plt.savefig(fig_name, bbox_inches='tight', dpi=500)
         plt.draw()
         plt.pause(0.001)
         plt.close()
@@ -399,7 +399,7 @@ def element_prevalence(formulae,
         if save_dir is not None:
             fig_name = f'{save_dir}/{name}_elem_hist.png'
             os.makedirs(save_dir, exist_ok=True)
-            plt.savefig(fig_name, bbox_inches='tight', dpi=300)
+            plt.savefig(fig_name, bbox_inches='tight', dpi=500)
         plt.draw()
         plt.pause(0.001)
         plt.close()
