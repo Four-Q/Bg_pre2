@@ -1,11 +1,11 @@
 Feature,Importance
-avg_dev GSenergy_pa,292
-mean HeatFusion,291
-avg_dev ElectronAffinity,284
-avg_dev Density,263
-mean ThermalConductivity,263
-avg_dev HeatFusion,253
-mean GSenergy_pa,251
-avg_dev ThermalConductivity,248
-avg_dev NUnfilled,248
-avg_dev LogThermalConductivity,247
+avg_dev GSenergy_pa,408
+avg_dev GSestBCClatcnt,391
+avg_dev NValence,383
+avg_dev ThermalConductivity,376
+avg_dev NUnfilled,368
+avg_dev FusionEnthalpy,364
+avg_dev SpaceGroupNumber,355
+avg_dev ElectronAffinity,352
+avg_dev Electronegativity,351
+avg_dev AtomicWeight,349

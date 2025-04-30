@@ -1,11 +1,11 @@
 Feature,Importance
-mode ThermalConductivity,0.03476304445864294
-minimum LogThermalConductivity,0.03468341623130433
-mode HeatVaporization,0.034602126034861444
-mode LogThermalConductivity,0.02494813055756598
-mean LogThermalConductivity,0.0233290818494219
-mean Density,0.02137444888355428
-minimum MolarVolume,0.020867457741780268
-mean MeltingT,0.020491185811957434
-maximum Electronegativity,0.015293061053014992
-mean HeatFusion,0.014977817110274962
+minimum ThermalConductivity,0.0412670301773906
+minimum LogThermalConductivity,0.040712989838248295
+mean Density,0.03385943549487343
+mode ThermalConductivity,0.0326884820591709
+mode LogThermalConductivity,0.027288404586265327
+minimum MolarVolume,0.0231593657188679
+mean MeltingT,0.020324766016075628
+mean HeatVaporization,0.02003833178414014
+mean NpUnfilled,0.019191258945387642
+mean BoilingT,0.019040959648827804
