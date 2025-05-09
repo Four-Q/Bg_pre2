@@ -1,11 +1,11 @@
 Feature,Importance
-mode ThermalConductivity,0.27012777
-minimum ThermalConductivity,0.14420612
-maximum Electronegativity,0.09087328
-mode HeatVaporization,0.08477861
-maximum NfUnfilled,0.031094346
-minimum MolarVolume,0.021270923
-maximum NUnfilled,0.017233899
-mean Density,0.017016834
-minimum GSenergy_pa,0.013900481
-range ThermalConductivity,0.012357289
+avg_dev GSenergy_pa,508
+avg_dev Density,433
+avg_dev GSestBCClatcnt,425
+mean MeltingT,407
+avg_dev ThermalConductivity,401
+mean ZungerPP-r_sigma,399
+mean Density,395
+avg_dev AtomicWeight,379
+avg_dev LogThermalConductivity,373
+avg_dev FusionEnthalpy,369

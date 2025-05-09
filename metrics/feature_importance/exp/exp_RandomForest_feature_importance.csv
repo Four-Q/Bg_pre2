@@ -1,11 +1,11 @@
 Feature,Importance
-mode ThermalConductivity,0.27012777
-minimum ThermalConductivity,0.14420612
-maximum Electronegativity,0.09087328
-mode HeatVaporization,0.08477861
-maximum NfUnfilled,0.031094346
-minimum MolarVolume,0.021270923
-maximum NUnfilled,0.017233899
-mean Density,0.017016834
-minimum GSenergy_pa,0.013900481
-range ThermalConductivity,0.012357289
+mean Density,0.11552039354917346
+avg_dev Electronegativity,0.08248657986322568
+mean AtomicWeight,0.05051488636868213
+range LogThermalConductivity,0.04134366979942477
+range ElectronAffinity,0.0392771841405065
+avg_dev ElectronAffinity,0.03110135844225764
+avg_dev LogThermalConductivity,0.030329320159876154
+mode ThermalConductivity,0.024229820944404797
+avg_dev NpValence,0.022923135850613795
+mode HeatVaporization,0.02177697018019338

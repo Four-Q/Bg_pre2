@@ -1,9 +1,9 @@
 Feature,Importance
-mean Density,0.035099446227573
+mean Density,0.03509944622757301
 minimum LogThermalConductivity,0.034778907547562285
 mean LogThermalConductivity,0.03133930367416396
 mode LogThermalConductivity,0.030082712917344025
-maximum Electronegativity,0.029062723536267973
+maximum Electronegativity,0.02906272353626797
 range ThermalConductivity,0.02855992011325063
 minimum MolarVolume,0.02488846215658716
 mean AtomicVolume,0.023755371752011416

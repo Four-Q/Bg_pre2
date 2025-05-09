@@ -1,11 +1,11 @@
 Feature,Importance
-efermi,0.06824463287587067
-mode LogThermalConductivity,0.029153456265198822
-mode HeatVaporization,0.028475989899243624
-mode ThermalConductivity,0.027886018599687673
-minimum ThermalConductivity,0.026525587767600618
-minimum LogThermalConductivity,0.02371604921288096
-minimum HeatVaporization,0.020576608847199595
-formation_energy_per_atom,0.019508078939690945
-mean Density,0.01943597863444437
-mean NpUnfilled,0.014645473181433515
+efermi,0.07452789735266259
+minimum LogThermalConductivity,0.030053651127376173
+minimum ThermalConductivity,0.028009610276243217
+mode LogThermalConductivity,0.027601657614481495
+mode ThermalConductivity,0.026872175146975475
+mode HeatVaporization,0.026275636433848507
+mean Density,0.02328366189311009
+formation_energy_per_atom,0.022942670977954115
+mean BoilingT,0.019122620623461425
+range ThermalConductivity,0.01813917242920491

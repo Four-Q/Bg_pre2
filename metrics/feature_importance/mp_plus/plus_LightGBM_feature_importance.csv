@@ -1,11 +1,11 @@
 Feature,Importance
-efermi,537
-volume,401
-formation_energy_per_atom,389
-space_group,308
-density,303
-avg_dev HeatFusion,244
-energy_per_atom,238
-density_atomic,236
-avg_dev NUnfilled,232
-mean HeatFusion,223
+efermi,597
+volume,434
+formation_energy_per_atom,434
+space_group,373
+density_atomic,334
+density,333
+avg_dev GSenergy_pa,316
+energy_per_atom,304
+avg_dev GSestBCClatcnt,296
+avg_dev NValence,295
